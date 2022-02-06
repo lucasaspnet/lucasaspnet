@@ -1,6 +1,5 @@
 ## Lucas Vasconcelos
-
-Desenvolvimento e manutenção em sistemas online e banco de dados
+<p>Desenvolvimento e manutenção em sistemas online e banco de dados</div>
 
 ## Conhecimento
 <p>Html 5 - Intermediário</p>
@@ -17,7 +16,6 @@ Desenvolvimento e manutenção em sistemas online e banco de dados
 ## Contato
 <p>Celular/WhatsApp: (34) 99968-6499</p>
 <p>E-mail: lucasaspnet@gmail.com</p>
-<p>Skype: lucasaspnet</p>
 <p>Linkedin : https://www.linkedin.com/in/lucasaspnet/</p>
 <p>GitHub: https://github.com/lucasaspnet</p>
 <p>Contrato: PJ MEI</p>
