@@ -15,7 +15,7 @@
 
 ## Contato
 <p>Celular/WhatsApp: (34) 99968-6499</p>
-<p>E-mail: lucasaspnet@gmail.com</p>
+<p>E-mail: lucasaspnet@outlook.com</p>
 <p>Linkedin : https://www.linkedin.com/in/lucasaspnet/</p>
 <p>GitHub: https://github.com/lucasaspnet</p>
 <p>Contrato: PJ MEI</p>
