@@ -1,5 +1,5 @@
 ## Lucas Vasconcelos
-<p>Desenvolvimento e manutenção em sistemas online e banco de dados</div>
+<p>Desenvolvimento e manutenção em sistemas online e banco de dados</p>
 
 ## Conhecimento
 <p>Html 5 - Intermediário</p>
